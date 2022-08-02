@@ -8,5 +8,9 @@ public class Gdemo {
 	{
 		System.out.println("me method");
 	}
+	public void m2()
+	{
+		System.out.println("create branch");
+	}
 
 }
