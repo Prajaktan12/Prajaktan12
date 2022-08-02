@@ -4,5 +4,9 @@ public class Gdemo {
 	
 		System.out.println("hii");
 	}
+	public void m1()
+	{
+		System.out.println("me method");
+	}
 
 }
