@@ -16,5 +16,9 @@ public class Gdemo {
 	{
 		System.out.println("i just want to change this");
 	}
+	public void m5()
+	{
+		System.out.println("create branch");
+	}
 
 }
