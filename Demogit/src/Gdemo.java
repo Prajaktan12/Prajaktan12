@@ -20,5 +20,10 @@ public class Gdemo {
 	{
 		System.out.println("create branch");
 	}
+public void m6()
+	{
+		System.out.println("create branch");
+	}
 
 }
+
