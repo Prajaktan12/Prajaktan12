@@ -1,9 +1,7 @@
 
-public class Gdemo {
-	public static void main(String[] args) {
+public class Gdemo 
+{
 	
-		System.out.println("hii");
-	}
 	public void m1()
 	{
 		System.out.println("me method");
@@ -15,6 +13,14 @@ public class Gdemo {
 	public void m3()
 	{
 		System.out.println("i just want to change this");
+	}
+	public static void main(String[] args) {
+	
+		Gdemo g=new Gdemo();
+		g.m1;
+		g.m2;
+		g.m3;
+		System.out.println("hii");
 	}
 
 }
